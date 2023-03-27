@@ -6,7 +6,6 @@
 
 [Γεώργιο Ζορπίδη](https://github.com/gzorpidis)
 
-[Γιάννη Κότσια](https://github.com/gianniskts)
-[repository στο προφίλ του] (https://github.com/gianniskts/Implementation-of-Database-Systems)
+[Γιάννη Κότσια](https://github.com/gianniskts) [repository στο προφίλ του](https://github.com/gianniskts/Implementation-of-Database-Systems)
 
 Βαθμολογία: 10/10 :white_check_mark:
